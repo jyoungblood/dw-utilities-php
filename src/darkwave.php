@@ -8,7 +8,7 @@
  * @source     https://github.com/hxgf/dw-utilities-php
  */
 
-namespace DW;
+namespace Darkwave;
 
 class dw {
 
