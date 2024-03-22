@@ -1,6 +1,6 @@
 # DW Utilities (PHP)
 
-### A collection of utility functions to facilitate an efficient workflow with the [Darkwave](https://github.com/hxgf/darkwave) web application toolkit.
+### A collection of utility functions to facilitate an efficient workflow with the [Darkwave](https://github.com/jyoungblood/darkwave) web application toolkit.
 
 
 
@@ -9,7 +9,7 @@ These functions are included with Darkwave, but they can be installed and used a
 
 Install the package with Composer:
 ```
-composer require hxgf/dw-utilities
+composer require jyoungblood/dw-utilities
 ```
 
 Then add it to your application:

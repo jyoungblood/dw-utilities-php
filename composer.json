@@ -1,6 +1,6 @@
 {
-	"name": "hxgf/dw-utilities",
-  "homepage": "https://github.com/hxgf/dw-utilities-php",
+	"name": "jyoungblood/dw-utilities",
+  "homepage": "https://github.com/jyoungblood/dw-utilities-php",
   "description": "A collection of utility functions to facilitate an efficient workflow with the Darkwave web application toolkit.",
 	"type": "library",
   "license": "MIT",
